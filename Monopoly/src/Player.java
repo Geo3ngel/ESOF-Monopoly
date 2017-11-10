@@ -27,7 +27,7 @@ public class Player {
 		
 		if(die1.getValue()==die2.getValue()) {
 			doublesCounter++;
-		}
+		}else{ doublesCounter = 0;}
 		return(die1.getValue()+die2.getValue());
 	}
 	
