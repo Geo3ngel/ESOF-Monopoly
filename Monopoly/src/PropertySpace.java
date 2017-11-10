@@ -1,4 +1,20 @@
+public class PropertySpace extends Space{
 
-public class PropertySpace {
-
+	private int rentAmount, mortgageValue, houseLevel;
+	private boolean isMortgaged, isMonopoly;
+	
+	public void takeAction(Player p) {
+		
+	}
+	
+	public int calculateRent() {
+		
+		//Yet to be implemented
+		return 0;
+		
+	}
+	
+	public void checkMonopoly() {
+		
+	}
 }

@@ -1,4 +1,5 @@
-public class Space {
+//Make space abstract?
+public class Space { 
 
 	private String name;
 	
